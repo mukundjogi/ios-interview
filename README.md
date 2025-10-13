@@ -1,170 +1,86 @@
+# iOS Interview Preparation Guide
 
-# 🍏 iOS Interview Questions & Answers Repository
+A comprehensive guide to prepare for iOS developer interviews, covering everything from basics to advanced topics with theory, examples, and best practices.
 
-A comprehensive, topic-wise collection of iOS interview questions and answers — covering everything from Swift fundamentals to **advanced architecture patterns**, **system design**, and **leadership-level concepts**.  
-Ideal for **iOS Developers**, **Tech Leads**, and **Mobile Architects** preparing for interviews or improving their technical depth.
+## 📚 Table of Contents
 
+### Getting Started
+- [Introduction](docs/introduction.md) - Why prepare, how to prepare effectively, interview levels and patterns
+- [📋 Interview Questions Index](docs/QUESTIONS_INDEX.md) - Quick reference to all 110+ interview questions
 
-## 🎯 Why This Repository?
+### Core iOS Development
 
-Interviews test more than syntax — they test understanding, structure, and clarity.  
-This repository brings **real-world iOS development knowledge** into **interview-ready explanations**:
+- [iOS Basics](docs/ios-basics.md) - iOS ecosystem, app lifecycle, UIViewController lifecycle, and core components
+- [Swift Programming](docs/swift-programming.md) - Swift language fundamentals, optionals, closures, error handling, and ARC
+- [OOP and Protocol-Oriented Programming](docs/oop-and-pop.md) - Object-oriented and protocol-oriented programming concepts in Swift
 
-- ✅ Clear, simple English explanations  
-- 💡 Code examples for every key concept  
-- 🧩 Organized by topic and difficulty  
-- 🧠 Follow-up questions and real-life scenarios  
-- 🔄 Updated for **Swift 6** and **iOS 18**
+### User Interface Development
 
+- [UIKit Development](docs/uikit-development.md) - Storyboards, Auto Layout, TableView, CollectionView, and accessibility
+- [SwiftUI](docs/swiftui.md) - Declarative UI, state management, navigation, and animations
 
-## 📂 Repository Structure
-```markdown
+### Data and Networking
 
-ios-interview-prep/
-│
-├── 01_Basics/
-│   ├── swift_fundamentals.md
-│   ├── oop_concepts.md
-│   └── ios_architecture.md
-│
-├── 02_Intermediate/
-│   ├── ui_ux.md
-│   ├── memory_management.md
-│   ├── networking.md
-│   └── design_patterns.md
-│
-├── 03_Advanced/
-│   ├── concurrency_async.md
-│   ├── swiftui_vs_uikit.md
-│   ├── dependency_injection.md
-│   └── performance_optimization.md
-│
-├── 04_Architecture/
-│   ├── mvvm.md
-│   ├── viper.md
-│   ├── clean_swift.md
-│   ├── coordinator_pattern.md
-│   └── modular_architecture.md
-│
-├── 05_Integration/
-│   ├── sdk_development.md
-│   ├── api_integration.md
-│   ├── push_notifications.md
-│   └── testing_automation.md
-│
-├── 06_Leadership/
-│   ├── code_reviews.md
-│   ├── system_design_ios.md
-│   ├── team_lead_questions.md
-│   └── architect_decisions.md
-│
-└── resources/
-├── cheat_sheets/
-├── interview_checklist.md
-├── ios_best_practices.md
-└── glossary.md
-```
+- [Data Persistence](docs/data-persistence.md) - UserDefaults, Keychain, Core Data, SQLite, and Realm
+- [Networking](docs/networking.md) - URLSession, REST APIs, Codable, Combine, and third-party libraries
 
+### Advanced Development
 
-## 🧩 Q&A Format
+- [Multithreading and Concurrency](docs/multithreading-concurrency.md) - GCD, OperationQueue, async/await, and concurrency best practices
+- [Architecture and Design Patterns](docs/architecture-design-patterns.md) - MVC, MVVM, VIPER, SOLID principles, and clean architecture
+- [Dependency Management](docs/dependency-management.md) - Swift Package Manager, CocoaPods, Carthage, and XCFrameworks
 
-Each question is written in a **structured, easy-to-read** format:
+### Performance and Quality
 
-## Q1. What is ARC in iOS? How does it work?
+- [Memory Management and Performance](docs/memory-management.md) - ARC deep dive, retain cycles, memory leaks, and optimization
+- [Testing](docs/testing.md) - Unit testing, UI testing, TDD, BDD, and test doubles
 
-## Answer: 
-ARC (Automatic Reference Counting) automatically manages memory in Swift.  
-It tracks how many references point to an object and frees it when none remain.
+### Specialized Topics
 
-## Example:
-```swift
-class Person {
-    var name: String
-    init(name: String) { self.name = name }
-}
-var obj: Person? = Person(name: "Mukund")
-obj = nil // ARC deallocates the object
-````
+- [Advanced Topics](docs/advanced-topics.md) - Combine framework, app extensions, push notifications, and deep linking
+- [Security](docs/security.md) - Secure coding practices, SSL pinning, and certificate validation
+- [App Distribution & In-App Purchase](docs/app-distribution-iap.md) - Certificates, provisioning profiles, App Store deployment, and IAP implementation
 
-## Follow-ups:
+## 🎯 How to Use This Guide
 
-* What are retain cycles?
-* Difference between `weak` and `unowned`?
-* How to break retain cycles with closures?
+1. **For Beginners**: Start with Introduction → iOS Basics → Swift Programming → UIKit Development
+2. **For Mid-level Developers**: Focus on Architecture, Design Patterns, Networking, and Data Persistence
+3. **For Senior/Lead Roles**: Deep dive into Advanced Topics, Security, Performance Optimization, and Testing
+4. **Interview Prep**: Read the relevant topic, understand the theory, practice the examples, and prepare answers
 
-## Level: Beginner → Intermediate
-## Keywords: ARC, Memory Management, Retain Cycles
+## 💡 What Makes This Guide Special
 
+- **Theory with Examples**: Every concept explained with practical Swift code examples
+- **110+ Interview Q&A**: Each topic includes 5-7 comprehensive interview questions with detailed answers
+- **Interview-Focused**: Real questions asked by Apple, Google, Meta, and other top companies
+- **Real-World Scenarios**: Practical use cases from production apps
+- **Simple Language**: Easy-to-understand explanations optimized for learning and SEO
+- **Comprehensive Coverage**: 20,000+ lines covering basics to advanced topics
 
-## 🧠 Topics Covered
-````
-| Level | Category | Focus Areas |
-|-------|------------|--------------|
-| 🧩 1  | **Swift Basics** | Data types, Optionals, Struct vs Class, Protocols |
-| ⚙️ 2  | **iOS Fundamentals** | Lifecycle, Delegates, AutoLayout |
-| 🧠 3  | **Memory & Concurrency** | ARC, GCD, async/await, Thread safety |
-| 🌐 4  | **Networking & Data** | URLSession, Codable, CoreData, Realm |
-| 🏗️ 5  | **Architecture & Patterns** | MVC, MVVM, VIPER, Clean Swift |
-| 🧪 6  | **Testing & Debugging** | Unit & UI Tests, Instruments |
-| 🧰 7  | **SwiftUI** | State, Binding, Navigation, Data Flow |
-| 📦 8  | **SDK & API Integration** | Payments, Notifications, Deep Links |
-| 🔐 9  | **Advanced Topics** | Combine, Keychain, Security, SPM |
-| 🧑‍💼 10 | **Leadership** | System Design, Code Reviews, Team Practices |
-````
+## 🚀 Quick Navigation by Role
 
-## 🧭 How to Use
+### Fresher / Entry-Level
+Focus on: iOS Basics, Swift Programming, UIKit Development, Basic Data Persistence
 
-1. **Clone the repository**
-   ```bash
-   git clone https://github.com/<your-username>/ios-interview-prep.git
-   cd ios-interview-prep
+### Mid-Level (2-4 years)
+Focus on: Architecture Patterns, Networking, SwiftUI, Multithreading, Testing
 
-2. **Browse by topic**
+### Senior (5+ years)
+Focus on: Design Patterns, Memory Management, Performance, Security, Advanced Topics, App Distribution
 
-   * `01_Basics/swift_fundamentals.md` → For beginners
-   * `04_Architecture/mvvm.md` → For mid-level to senior
-   * `06_Leadership/system_design_ios.md` → For tech lead interviews
+### Architect / Lead
+Focus on: Clean Architecture, SOLID Principles, Dependency Management, System Design
 
-3. **Use for preparation**
+## 📖 Contributing
 
-   * Revise before interviews
-   * Create flashcards
-   * Add your own questions or examples 🚀
+This is a living document. Feel free to contribute, suggest improvements, or report issues.
 
-## 🤝 Contributing
-````
-Contributions are welcome!
-If you’d like to add questions or improve explanations:
+## 📄 License
 
-1. Fork the repo
-2. Create a branch
-3. Add or edit your Q&A in the correct folder
-4. Submit a Pull Request ✨
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-> Please follow the [Q&A format](#q--a-format) for consistency.
-````
+---
 
-## 📚 Additional Resources
+**Created for iOS developers preparing for interviews at product companies, service companies, and startups.**
 
-* [Apple Developer Documentation](https://developer.apple.com/documentation/)
-* [Swift.org](https://swift.org)
-* [Ray Wenderlich iOS Tutorials](https://www.kodeco.com/ios)
-* [iOS Dev Weekly](https://iosdevweekly.com/)
-* [Swift by Sundell](https://www.swiftbysundell.com/)
-
-## 🧑‍💼 Maintainer
-
-**Mukund Jogi**
-📱 Mobile App Specialist | iOS | Android | Flutter | React Native | SDK Expert
-
-💼 [LinkedIn](https://www.linkedin.com/in/mukund-jogi)
-
-🌐 [Portfolio](https://mukundjogi-portfolio.vercel.app)
-
-
-## ⭐ Support
-
-If this project helps you prepare for interviews or improve your iOS skills —
-please **⭐ star this repository** and share it with your developer friends!
-
-> “Learn deeply, explain simply — that’s how you master iOS.” 🍏
+Happy Learning! 🍎
