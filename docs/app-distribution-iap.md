@@ -328,7 +328,7 @@ Version Information:
 ├── Screenshots (all required sizes)
 ├── Description (4000 characters max)
 ├── Keywords (100 characters max)
-├── What's New (4000 characters max)
+├── What's New (0 characters max)
 └── Promotional Text (170 characters max)
 ```
 

@@ -54,8 +54,6 @@ A comprehensive guide to prepare for iOS developer interviews, covering everythi
 - **110+ Interview Q&A**: Each topic includes 5-7 comprehensive interview questions with detailed answers
 - **Interview-Focused**: Real questions asked by Apple, Google, Meta, and other top companies
 - **Real-World Scenarios**: Practical use cases from production apps
-- **Simple Language**: Easy-to-understand explanations optimized for learning and SEO
-- **Comprehensive Coverage**: 20,000+ lines covering basics to advanced topics
 
 ## 🚀 Quick Navigation by Role
 

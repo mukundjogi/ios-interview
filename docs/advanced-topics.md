@@ -489,11 +489,7 @@ func application(_ application: UIApplication,
 }
 ```
 
-**Benefits of Universal Links:**
-- Opens app if installed, website otherwise
-- More secure
-- Better user experience
-- SEO benefits
+
 
 ### Q5: What are app extensions and their types?
 
