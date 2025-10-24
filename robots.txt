@@ -1,0 +1,38 @@
+# Robots.txt for iOS Interview Prep Repository
+# Optimized for search engines and LLM crawlers
+
+User-agent: *
+Allow: /
+
+# Allow all AI/LLM crawlers
+User-agent: GPTBot
+Allow: /
+
+User-agent: ChatGPT-User
+Allow: /
+
+User-agent: CCBot
+Allow: /
+
+User-agent: anthropic-ai
+Allow: /
+
+User-agent: Claude-Web
+Allow: /
+
+User-agent: Google-Extended
+Allow: /
+
+User-agent: PerplexityBot
+Allow: /
+
+User-agent: Applebot-Extended
+Allow: /
+
+# Sitemap location
+Sitemap: https://mukundjogi.github.io/ios-interview-prep/sitemap.xml
+Sitemap: https://raw.githubusercontent.com/mukundjogi/ios-interview-prep/main/sitemap.xml
+
+# Allow all content to be crawled
+Crawl-delay: 0
+

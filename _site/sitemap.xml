@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
+        xmlns:xhtml="http://www.w3.org/1999/xhtml"
+        xmlns:mobile="http://www.google.com/schemas/sitemap-mobile/1.0"
+        xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+    
+    <!-- Main Landing Page -->
+    <url>
+        <loc>https://mukundjogi.github.io/ios-interview-prep/</loc>
+        <lastmod>2025-10-14</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>1.0</priority>
+    </url>
+    
+    <!-- GitHub Repository -->
+    <url>
+        <loc>https://github.com/mukundjogi/ios-interview-prep</loc>
+        <lastmod>2025-10-14</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>1.0</priority>
+    </url>
+    
+    <!-- Questions Index -->
+    <url>
+        <loc>https://mukundjogi.github.io/ios-interview-prep/docs/QUESTIONS_INDEX</loc>
+        <lastmod>2025-10-14</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.9</priority>
+    </url>
+    
+    <!-- Core Topics -->
+    <url>
+        <loc>https://mukundjogi.github.io/ios-interview-prep/docs/introduction</loc>
+        <lastmod>2025-10-14</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.8</priority>
+    </url>
+    
+    <url>
+        <loc>https://mukundjogi.github.io/ios-interview-prep/docs/ios-basics</loc>
+        <lastmod>2025-10-14</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.9</priority>
+    </url>
+    
+    <url>
+        <loc>https://mukundjogi.github.io/ios-interview-prep/docs/swift-programming</loc>
+        <lastmod>2025-10-14</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.9</priority>
+    </url>
+    
+    <url>
+        <loc>https://mukundjogi.github.io/ios-interview-prep/docs/oop-and-pop</loc>
+        <lastmod>2025-10-14</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.8</priority>
+    </url>
+    
+    <!-- UI Development -->
+    <url>
+        <loc>https://mukundjogi.github.io/ios-interview-prep/docs/uikit-development</loc>
+        <lastmod>2025-10-14</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.9</priority>
+    </url>
+    
+    <url>
+        <loc>https://mukundjogi.github.io/ios-interview-prep/docs/swiftui</loc>
+        <lastmod>2025-10-14</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.9</priority>
+    </url>
+    
+    <!-- Data & Networking -->
+    <url>
+        <loc>https://mukundjogi.github.io/ios-interview-prep/docs/data-persistence</loc>
+        <lastmod>2025-10-14</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.8</priority>
+    </url>
+    
+    <url>
+        <loc>https://mukundjogi.github.io/ios-interview-prep/docs/networking</loc>
+        <lastmod>2025-10-14</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.8</priority>
+    </url>
+    
+    <!-- Advanced Topics -->
+    <url>
+        <loc>https://mukundjogi.github.io/ios-interview-prep/docs/multithreading-concurrency</loc>
+        <lastmod>2025-10-14</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.9</priority>
+    </url>
+    
+    <url>
+        <loc>https://mukundjogi.github.io/ios-interview-prep/docs/architecture-design-patterns</loc>
+        <lastmod>2025-10-14</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.9</priority>
+    </url>
+    
+    <url>
+        <loc>https://mukundjogi.github.io/ios-interview-prep/docs/dependency-management</loc>
+        <lastmod>2025-10-14</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.7</priority>
+    </url>
+    
+    <!-- Performance & Quality -->
+    <url>
+        <loc>https://mukundjogi.github.io/ios-interview-prep/docs/memory-management</loc>
+        <lastmod>2025-10-14</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.9</priority>
+    </url>
+    
+    <url>
+        <loc>https://mukundjogi.github.io/ios-interview-prep/docs/testing</loc>
+        <lastmod>2025-10-14</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.8</priority>
+    </url>
+    
+    <!-- Specialized Topics -->
+    <url>
+        <loc>https://mukundjogi.github.io/ios-interview-prep/docs/advanced-topics</loc>
+        <lastmod>2025-10-14</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.8</priority>
+    </url>
+    
+    <url>
+        <loc>https://mukundjogi.github.io/ios-interview-prep/docs/security</loc>
+        <lastmod>2025-10-14</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.8</priority>
+    </url>
+    
+    <url>
+        <loc>https://mukundjogi.github.io/ios-interview-prep/docs/app-distribution-iap</loc>
+        <lastmod>2025-10-14</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.7</priority>
+    </url>
+    
+</urlset>
+

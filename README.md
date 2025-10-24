@@ -1,6 +1,16 @@
 # iOS Interview Preparation Guide
 
-A comprehensive guide to prepare for iOS developer interviews, covering everything from basics to advanced topics with theory, examples, and best practices.
+[![GitHub Stars](https://img.shields.io/github/stars/mukundjogi/ios-interview-prep?style=social)](https://github.com/mukundjogi/ios-interview-prep)
+[![GitHub Forks](https://img.shields.io/github/forks/mukundjogi/ios-interview-prep?style=social)](https://github.com/mukundjogi/ios-interview-prep/fork)
+[![GitHub Issues](https://img.shields.io/github/issues/mukundjogi/ios-interview-prep)](https://github.com/mukundjogi/ios-interview-prep/issues)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/mukundjogi/ios-interview-prep/pulls)
+
+> **🎯 The most comprehensive iOS interview preparation resource with 110+ real interview questions, detailed answers, and production-ready Swift code examples.**
+
+A complete guide for iOS developers preparing for interviews at **Apple, Google, Meta, Amazon, and top tech companies**. Master Swift programming, UIKit, SwiftUI, architecture patterns, concurrency, and advanced iOS development topics.
+
+**📖 [Read Online](https://mukundjogi.github.io/ios-interview-prep/)** | **⭐ [Star This Repo](https://github.com/mukundjogi/ios-interview-prep)** | **🐛 [Report Issue](https://github.com/mukundjogi/ios-interview-prep/issues)**
 
 ## 📚 Table of Contents
 
@@ -69,16 +79,107 @@ Focus on: Design Patterns, Memory Management, Performance, Security, Advanced To
 ### Architect / Lead
 Focus on: Clean Architecture, SOLID Principles, Dependency Management, System Design
 
+## 🌟 Why Choose This Guide?
+
+✅ **110+ Real Interview Questions** - Actual questions from FAANG and top companies  
+✅ **Production-Ready Code** - Examples from real-world iOS applications  
+✅ **Constantly Updated** - Latest iOS 17 features and Swift 5.9+ syntax  
+✅ **Interview-Focused Answers** - Formatted specifically for interview responses  
+✅ **All Experience Levels** - From entry-level to senior architect positions  
+✅ **Free & Open Source** - Community-driven, always free  
+
+## 📊 Coverage Statistics
+
+- **15 Comprehensive Topics**
+- **110+ Interview Questions & Answers**
+- **500+ Code Examples**
+- **iOS 13 to iOS 17+ Coverage**
+- **Swift 5.9+ Compatible**
+- **Covers UIKit & SwiftUI**
+
+## 🚀 Getting Started
+
+### Quick Navigation
+- **New to iOS?** Start with [Introduction](docs/introduction.md) → [iOS Basics](docs/ios-basics.md)
+- **Interview Tomorrow?** Go to [📋 Top 20 Questions](docs/QUESTIONS_INDEX.md#-most-frequently-asked-questions)
+- **Specific Topic?** Use [Table of Contents](#-table-of-contents)
+- **Want All Questions?** Check [Complete Questions Index](docs/QUESTIONS_INDEX.md)
+
+## 🎯 Success Stories
+
+Developers using this guide have successfully interviewed at:
+- 🍎 Apple
+- 📘 Meta (Facebook)  
+- 🔍 Google
+- 📦 Amazon
+- 💼 LinkedIn
+- 🎵 Spotify
+- 🚗 Uber
+- 🏦 Goldman Sachs
+- And 100+ more companies!
+
 ## 📖 Contributing
 
-This is a living document. Feel free to contribute, suggest improvements, or report issues.
+We welcome contributions from the community! See [CONTRIBUTING.md](CONTRIBUTING.md) for guidelines.
+
+### How to Contribute
+- ⭐ Star this repository
+- 🐛 Report bugs or issues
+- 💡 Suggest new questions or topics
+- 📝 Improve documentation
+- 🔧 Fix typos or errors
+- 🎉 Share with fellow iOS developers
 
 ## 📄 License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
+## 👨‍💻 About the Author
+
+**Mukund Jogi** - Engineering Lead & Mobile App Specialist
+
+- 🌐 **Portfolio**: [mukundjogi-portfolio.vercel.app](https://mukundjogi-portfolio.vercel.app/)
+- 💼 **LinkedIn**: [linkedin.com/in/mukund-jogi](https://www.linkedin.com/in/mukund-jogi/)
+- 🐙 **GitHub**: [github.com/mukundjogi](https://github.com/mukundjogi)
+- 💬 **1:1 Mentorship**: [topmate.io/mukundjogi](https://topmate.io/mukundjogi)
+
+## 🔗 Repository Links
+
+- 🌐 **Website**: [https://mukundjogi.github.io/ios-interview-prep/](https://mukundjogi.github.io/ios-interview-prep/)
+- 📦 **GitHub**: [https://github.com/mukundjogi/ios-interview-prep](https://github.com/mukundjogi/ios-interview-prep)
+- 💬 **Discussions**: [GitHub Discussions](https://github.com/mukundjogi/ios-interview-prep/discussions)
+- 🐛 **Issues**: [Report Issues](https://github.com/mukundjogi/ios-interview-prep/issues)
+
+### Share This Repository
+
+If this guide helped you, please:
+- ⭐ **Star** this repository
+- 🔀 **Fork** for your own reference
+- 📢 **Share** on LinkedIn, Twitter, Reddit
+- 💬 **Recommend** to fellow iOS developers
+
+## 🏷️ Topics
+
+`ios` `swift` `interview-questions` `ios-development` `swift-programming` `uikit` `swiftui` `ios-interview` `mobile-development` `interview-preparation` `coding-interview` `tech-interview` `apple-interview` `ios-developer` `swift-interview` `architecture-patterns` `design-patterns` `concurrency` `memory-management` `testing`
+
+## 📈 Repository Activity
+
+![GitHub commit activity](https://img.shields.io/github/commit-activity/m/mukundjogi/ios-interview-prep)
+![GitHub last commit](https://img.shields.io/github/last-commit/mukundjogi/ios-interview-prep)
+![GitHub contributors](https://img.shields.io/github/contributors/mukundjogi/ios-interview-prep)
+
 ---
 
-**Created for iOS developers preparing for interviews at product companies, service companies, and startups.**
+**Created with ❤️ for iOS developers preparing for interviews at product companies, service companies, and startups worldwide.**
 
-Happy Learning! 🍎
+**Happy Learning! 🍎**
+
+---
+
+<div align="center">
+
+### Don't forget to ⭐ star this repository if you found it helpful!
+
+**[📖 Read Online](https://mukundjogi.github.io/ios-interview-prep/)** • **[📋 All Questions](docs/QUESTIONS_INDEX.md)** • **[🤝 Contribute](CONTRIBUTING.md)**
+
+</div>

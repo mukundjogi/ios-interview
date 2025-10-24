@@ -1,0 +1,44 @@
+# Assets Directory
+
+Place your social media images and assets here with these EXACT names:
+
+## Required Images:
+
+1. **og-image.png**
+   - Size: 1200 x 630 pixels
+   - Use: Facebook, LinkedIn, Discord previews
+   - See IMAGE_PROMPTS.md for Gemini prompt
+
+2. **twitter-card.png**
+   - Size: 1200 x 675 pixels
+   - Use: Twitter/X card preview
+   - See IMAGE_PROMPTS.md for Gemini prompt
+
+3. **github-social.png**
+   - Size: 1280 x 640 pixels
+   - Use: GitHub repository preview
+   - Upload to Settings → Social Preview
+   - See IMAGE_PROMPTS.md for Gemini prompt
+
+4. **ios-logo.png**
+   - Size: 512 x 512 pixels
+   - Use: Site logo/icon
+   - See IMAGE_PROMPTS.md for Gemini prompt
+
+5. **favicon.ico**
+   - Size: 32 x 32 pixels
+   - Use: Browser tab icon
+   - Can be created from ios-logo.png
+
+---
+
+## How to Create:
+Open `/IMAGE_PROMPTS.md` in the repository root for detailed Gemini AI prompts for each image.
+
+## After Creating:
+```bash
+git add assets/
+git commit -m "Add social media and branding assets"
+git push
+```
+

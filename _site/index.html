@@ -1,0 +1,386 @@
+<!DOCTYPE html>
+<html lang="en-US">
+  <head>
+    <meta charset="UTF-8">
+
+<!-- Begin Jekyll SEO tag v2.8.0 -->
+<title>iOS Interview Preparation Guide - 110+ Questions &amp; Answers | iOS Interview Preparation Guide</title>
+<meta name="generator" content="Jekyll v4.4.1" />
+<meta property="og:title" content="iOS Interview Preparation Guide - 110+ Questions &amp; Answers" />
+<meta name="author" content="Mukund Jogi" />
+<meta property="og:locale" content="en_US" />
+<meta name="description" content="Complete iOS interview preparation resource covering Swift, UIKit, SwiftUI, architecture patterns, and advanced topics. Perfect for developers at all levels." />
+<meta property="og:description" content="Complete iOS interview preparation resource covering Swift, UIKit, SwiftUI, architecture patterns, and advanced topics. Perfect for developers at all levels." />
+<link rel="canonical" href="http://localhost:4000/ios-interview-prep/" />
+<meta property="og:url" content="http://localhost:4000/ios-interview-prep/" />
+<meta property="og:site_name" content="iOS Interview Preparation Guide" />
+<meta property="og:type" content="website" />
+<meta name="twitter:card" content="summary" />
+<meta property="twitter:title" content="iOS Interview Preparation Guide - 110+ Questions &amp; Answers" />
+<meta name="twitter:site" content="@mukundjogi" />
+<meta name="twitter:creator" content="@Mukund Jogi" />
+<script type="application/ld+json">
+{"@context":"https://schema.org","@type":"WebSite","author":{"@type":"Person","name":"Mukund Jogi","url":"https://mukundjogi-portfolio.vercel.app/"},"description":"Complete iOS interview preparation resource covering Swift, UIKit, SwiftUI, architecture patterns, and advanced topics. Perfect for developers at all levels.","headline":"iOS Interview Preparation Guide - 110+ Questions &amp; Answers","name":"Mukund Jogi","publisher":{"@type":"Organization","logo":{"@type":"ImageObject","url":"http://localhost:4000/ios-interview-prep/assets/ios-logo.png"},"name":"Mukund Jogi"},"sameAs":["https://github.com/mukundjogi","https://www.linkedin.com/in/mukund-jogi/","https://mukundjogi-portfolio.vercel.app/","https://topmate.io/mukundjogi"],"url":"http://localhost:4000/ios-interview-prep/"}</script>
+<!-- End Jekyll SEO tag -->
+
+    <link rel="preconnect" href="https://fonts.gstatic.com">
+    <link rel="preload" href="https://fonts.googleapis.com/css?family=Open+Sans:400,700&display=swap" as="style" type="text/css" crossorigin>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="theme-color" content="#157878">
+    <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+    <link rel="stylesheet" href="/ios-interview-prep/assets/css/style.css?v=">
+    <!-- SEO and Social Meta Tags -->
+<meta name="description"
+    content="Complete iOS interview preparation guide with 110+ questions, answers, and code examples. Master Swift, UIKit, SwiftUI, architecture patterns for interviews at Apple, Google, Meta, and top tech companies.">
+<meta name="keywords"
+    content="iOS interview questions, Swift interview preparation, iOS developer interview, SwiftUI interview, UIKit interview, iOS architecture patterns, mobile development interview, Apple interview, FAANG iOS interview, iOS coding interview">
+<meta name="author" content="Mukund Jogi">
+<link rel="author" href="https://mukundjogi-portfolio.vercel.app/">
+<meta name="robots" content="index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1">
+<meta name="googlebot" content="index, follow">
+<link rel="canonical" href="https://mukundjogi.github.io/ios-interview-prep/">
+
+<!-- Open Graph / Facebook -->
+<meta property="og:type" content="website">
+<meta property="og:url" content="https://mukundjogi.github.io/ios-interview-prep/">
+<meta property="og:title" content="iOS Interview Preparation Guide - 110+ Questions & Answers">
+<meta property="og:description"
+    content="The most comprehensive iOS interview prep resource. Master Swift, UIKit, SwiftUI, and architecture patterns with real interview questions from top tech companies.">
+<meta property="og:image" content="https://mukundjogi.github.io/ios-interview-prep/assets/og-image.png">
+<meta property="og:image:width" content="1200">
+<meta property="og:image:height" content="630">
+<meta property="og:site_name" content="iOS Interview Prep">
+
+<!-- Twitter -->
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:url" content="https://mukundjogi.github.io/ios-interview-prep/">
+<meta name="twitter:title" content="iOS Interview Preparation Guide - 110+ Questions & Answers">
+<meta name="twitter:description"
+    content="Complete iOS interview preparation with 110+ real questions from Apple, Google, Meta. Master Swift, UIKit, SwiftUI & architecture patterns.">
+<meta name="twitter:image" content="https://mukundjogi.github.io/ios-interview-prep/assets/twitter-card.png">
+<meta name="twitter:creator" content="@mukundjogi">
+<meta name="twitter:site" content="@mukundjogi">
+
+<!-- LinkedIn -->
+<meta property="og:image:alt" content="iOS Interview Preparation Guide - 110+ Questions">
+
+<!-- Schema.org JSON-LD for Rich Results -->
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Course",
+  "name": "iOS Interview Preparation Guide",
+  "description": "Complete iOS interview preparation resource with 110+ questions, detailed answers, and production-ready Swift code examples covering UIKit, SwiftUI, architecture patterns, and advanced topics.",
+  "provider": {
+    "@type": "Organization",
+    "name": "iOS Interview Prep",
+    "url": "https://github.com/mukundjogi/ios-interview-prep"
+  },
+  "educationalLevel": "Beginner to Advanced",
+  "teaches": [
+    "iOS Development",
+    "Swift Programming",
+    "UIKit Framework",
+    "SwiftUI Framework",
+    "iOS Architecture Patterns",
+    "Mobile App Development",
+    "Interview Preparation"
+  ],
+  "audience": {
+    "@type": "EducationalAudience",
+    "educationalRole": "iOS Developers"
+  },
+  "hasCourseInstance": {
+    "@type": "CourseInstance",
+    "courseMode": "online",
+    "courseWorkload": "PT20H"
+  }
+}
+</script>
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is the difference between weak and unowned in Swift?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Weak references are optional and automatically set to nil when the instance they reference is deallocated. Unowned references are non-optional and assume the referenced instance will always exist when accessed."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "When should I use struct vs class in Swift?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Use struct for value types that represent data models, especially immutable data. Use class for reference types that need inheritance, identity, or shared mutable state."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What causes retain cycles in iOS?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Retain cycles occur when two or more objects hold strong references to each other, preventing ARC from deallocating them. Common causes include closures capturing self, delegate patterns without weak references, and parent-child relationships with strong references."
+      }
+    }
+  ]
+}
+</script>
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "SoftwareSourceCode",
+  "name": "iOS Interview Preparation Guide",
+  "description": "Comprehensive iOS interview prep with 110+ questions and Swift code examples",
+  "codeRepository": "https://github.com/mukundjogi/ios-interview-prep",
+  "programmingLanguage": "Swift",
+  "runtimePlatform": "iOS",
+  "author": {
+    "@type": "Person",
+    "name": "Mukund Jogi",
+    "url": "https://mukundjogi-portfolio.vercel.app/",
+    "sameAs": [
+      "https://github.com/mukundjogi",
+      "https://www.linkedin.com/in/mukund-jogi/",
+      "https://topmate.io/mukundjogi"
+    ]
+  },
+  "license": "https://opensource.org/licenses/MIT",
+  "keywords": "iOS, Swift, Interview Questions, UIKit, SwiftUI, Mobile Development"
+}
+</script>
+
+<!-- LLM-Friendly Metadata -->
+<meta name="ai-content-declaration"
+    content="This is original educational content created for iOS interview preparation. All code examples are production-ready and tested.">
+<meta name="content-type" content="educational-resource">
+<meta name="topic" content="iOS Development, Swift Programming, Interview Preparation">
+<meta name="target-audience" content="iOS Developers, Mobile Engineers, Software Engineers">
+
+<!-- Additional SEO -->
+<link rel="alternate" type="application/rss+xml" title="iOS Interview Prep Updates"
+    href="https://mukundjogi.github.io/ios-interview-prep/feed.xml">
+  </head>
+  <body>
+    <a id="skip-to-content" href="#content">Skip to the content.</a>
+
+    <header class="page-header" role="banner">
+      <h1 class="project-name">iOS Interview Preparation Guide - 110+ Questions & Answers</h1>
+      <h2 class="project-tagline">Complete iOS interview preparation resource covering Swift, UIKit, SwiftUI, architecture patterns, and advanced topics. Perfect for developers at all levels.</h2>
+      
+      
+    </header>
+
+    <main id="content" class="main-content" role="main">
+      <h1 id="-ios-interview-preparation-guide">🍎 iOS Interview Preparation Guide</h1>
+
+<div class="badges">
+  <img src="https://img.shields.io/github/stars/mukundjogi/ios-interview-prep?style=social" alt="GitHub Stars" />
+  <img src="https://img.shields.io/github/forks/mukundjogi/ios-interview-prep?style=social" alt="GitHub Forks" />
+  <img src="https://img.shields.io/badge/questions-110+-blue" alt="110+ Questions" />
+  <img src="https://img.shields.io/badge/Swift-5.9+-orange" alt="Swift 5.9+" />
+</div>
+
+<p>A comprehensive guide to prepare for iOS developer interviews, covering everything from basics to advanced topics with <strong>theory, practical examples, and 110+ real interview questions</strong>.</p>
+
+<h2 id="-what-youll-learn">🎯 What You’ll Learn</h2>
+
+<ul>
+  <li><strong>Swift Programming</strong>: Optionals, closures, ARC, generics, and advanced Swift features</li>
+  <li><strong>UIKit &amp; SwiftUI</strong>: Modern iOS UI development with both frameworks</li>
+  <li><strong>Architecture Patterns</strong>: MVC, MVVM, VIPER, Clean Architecture, and SOLID principles</li>
+  <li><strong>Advanced Topics</strong>: Concurrency, networking, security, performance optimization</li>
+  <li><strong>Real Interview Questions</strong>: 110+ questions asked at Apple, Google, Meta, and top companies</li>
+</ul>
+
+<h2 id="-complete-topic-coverage">📚 Complete Topic Coverage</h2>
+
+<h3 id="️-core-ios-development">🏗️ Core iOS Development</h3>
+<ul>
+  <li><a href="docs/introduction.html"><strong>Introduction</strong></a> - Interview preparation strategies and tips</li>
+  <li><a href="docs/ios-basics.html"><strong>iOS Basics</strong></a> - App lifecycle, view controllers, and core components</li>
+  <li><a href="docs/swift-programming.html"><strong>Swift Programming</strong></a> - Language fundamentals and advanced features</li>
+  <li><a href="docs/oop-and-pop.html"><strong>OOP &amp; Protocol-Oriented Programming</strong></a> - Design principles in Swift</li>
+</ul>
+
+<h3 id="-user-interface-development">🎨 User Interface Development</h3>
+<ul>
+  <li><a href="docs/uikit-development.html"><strong>UIKit Development</strong></a> - Storyboards, Auto Layout, TableView, CollectionView</li>
+  <li><a href="docs/swiftui.html"><strong>SwiftUI</strong></a> - Declarative UI, state management, animations</li>
+</ul>
+
+<h3 id="-data--networking">💾 Data &amp; Networking</h3>
+<ul>
+  <li><a href="docs/data-persistence.html"><strong>Data Persistence</strong></a> - UserDefaults, Keychain, Core Data, Realm</li>
+  <li><a href="docs/networking.html"><strong>Networking</strong></a> - URLSession, REST APIs, Codable, Combine</li>
+</ul>
+
+<h3 id="-advanced-development">⚡ Advanced Development</h3>
+<ul>
+  <li><a href="docs/multithreading-concurrency.html"><strong>Multithreading &amp; Concurrency</strong></a> - GCD, async/await, actors</li>
+  <li><a href="docs/architecture-design-patterns.html"><strong>Architecture &amp; Design Patterns</strong></a> - Clean code and scalable apps</li>
+  <li><a href="docs/dependency-management.html"><strong>Dependency Management</strong></a> - SPM, CocoaPods, Carthage</li>
+</ul>
+
+<h3 id="-performance--quality">🔧 Performance &amp; Quality</h3>
+<ul>
+  <li><a href="docs/memory-management.html"><strong>Memory Management</strong></a> - ARC, retain cycles, optimization</li>
+  <li><a href="docs/testing.html"><strong>Testing</strong></a> - Unit testing, UI testing, TDD/BDD</li>
+</ul>
+
+<h3 id="-specialized-topics">🔐 Specialized Topics</h3>
+<ul>
+  <li><a href="docs/advanced-topics.html"><strong>Advanced Topics</strong></a> - Combine, push notifications, deep linking</li>
+  <li><a href="docs/security.html"><strong>Security</strong></a> - Secure coding, SSL pinning, encryption</li>
+  <li><a href="docs/app-distribution-iap.html"><strong>App Distribution &amp; IAP</strong></a> - App Store deployment, In-App Purchases</li>
+</ul>
+
+<h2 id="-quick-start-by-experience-level">🚀 Quick Start by Experience Level</h2>
+
+<h3 id="-entry-level-0-2-years">👨‍💻 Entry Level (0-2 years)</h3>
+<p>Start with: <a href="docs/introduction.html">Introduction</a> → <a href="docs/ios-basics.html">iOS Basics</a> → <a href="docs/swift-programming.html">Swift Programming</a> → <a href="docs/uikit-development.html">UIKit</a></p>
+
+<h3 id="-mid-level-2-4-years">👔 Mid-Level (2-4 years)</h3>
+<p>Focus on: <a href="docs/architecture-design-patterns.html">Architecture Patterns</a>, <a href="docs/networking.html">Networking</a>, <a href="docs/swiftui.html">SwiftUI</a>, <a href="docs/multithreading-concurrency.html">Concurrency</a></p>
+
+<h3 id="️-senior-5-years">🎖️ Senior (5+ years)</h3>
+<p>Deep dive: <a href="docs/architecture-design-patterns.html">Design Patterns</a>, <a href="docs/memory-management.html">Memory Management</a>, <a href="docs/security.html">Security</a>, <a href="docs/memory-management.html">Performance</a></p>
+
+<h3 id="-architectlead">🏆 Architect/Lead</h3>
+<p>Master: Clean Architecture, SOLID Principles, <a href="docs/architecture-design-patterns.html">System Design</a>, <a href="docs/dependency-management.html">Dependency Management</a></p>
+
+<h2 id="-interview-questions-index">📋 Interview Questions Index</h2>
+
+<p>Access all <strong>110+ interview questions</strong> organized by topic:</p>
+
+<p>👉 <a href="docs/QUESTIONS_INDEX.html"><strong>View Complete Questions Index</strong></a></p>
+
+<h3 id="most-frequently-asked-questions">Most Frequently Asked Questions</h3>
+
+<ol>
+  <li>What’s the difference between weak and unowned?</li>
+  <li>Explain optionals in Swift</li>
+  <li>Struct vs Class - when to use each?</li>
+  <li>What causes retain cycles?</li>
+  <li>MVC vs MVVM architecture</li>
+  <li>How does ARC work?</li>
+  <li>Closures and capture lists</li>
+  <li>TableView cell reuse mechanism</li>
+  <li>Protocol-Oriented Programming</li>
+  <li>sync vs async in GCD</li>
+</ol>
+
+<p><a href="docs/QUESTIONS_INDEX.html">See all 110+ questions →</a></p>
+
+<h2 id="-what-makes-this-guide-special">💡 What Makes This Guide Special</h2>
+
+<p>✅ <strong>Theory with Examples</strong>: Every concept explained with practical Swift code<br />
+✅ <strong>110+ Real Questions</strong>: Actual questions from top tech companies<br />
+✅ <strong>Interview-Focused</strong>: Answers formatted for interview responses<br />
+✅ <strong>Production-Ready</strong>: Real-world scenarios and best practices<br />
+✅ <strong>Regularly Updated</strong>: Latest iOS features and Swift versions<br />
+✅ <strong>Open Source</strong>: Community-driven and free forever</p>
+
+<h2 id="-about-the-author">👨‍💻 About the Author</h2>
+
+<p>Created by <strong><a href="https://mukundjogi-portfolio.vercel.app/">Mukund Jogi</a></strong> - Engineering Lead &amp; Mobile App Specialist with 8.5+ years of experience in mobile development.</p>
+
+<ul>
+  <li>💼 Connect on <a href="https://www.linkedin.com/in/mukund-jogi/">LinkedIn</a></li>
+  <li>🐙 Follow on <a href="https://github.com/mukundjogi">GitHub</a></li>
+  <li>💬 Book a session on <a href="https://topmate.io/mukundjogi">TopMate</a></li>
+</ul>
+
+<h2 id="-contributing">🤝 Contributing</h2>
+
+<p>We welcome contributions! See our <a href="CONTRIBUTING.html">Contributing Guide</a> to get started.</p>
+
+<h3 id="how-to-contribute">How to Contribute</h3>
+<ul>
+  <li>Report issues or suggest improvements</li>
+  <li>Add new interview questions</li>
+  <li>Update examples with latest iOS features</li>
+  <li>Improve documentation and explanations</li>
+</ul>
+
+<h2 id="-who-is-this-for">📱 Who Is This For?</h2>
+
+<ul>
+  <li><strong>Job Seekers</strong>: Preparing for iOS developer interviews</li>
+  <li><strong>Students</strong>: Learning iOS development fundamentals</li>
+  <li><strong>Career Switchers</strong>: Transitioning to iOS development</li>
+  <li><strong>Interviewers</strong>: Creating comprehensive interview questions</li>
+  <li><strong>Team Leads</strong>: Training junior developers</li>
+</ul>
+
+<h2 id="-success-stories">🌟 Success Stories</h2>
+
+<p>This guide has helped developers land positions at:</p>
+<ul>
+  <li>🍎 Apple</li>
+  <li>📘 Meta (Facebook)</li>
+  <li>🔍 Google</li>
+  <li>💼 LinkedIn</li>
+  <li>🎵 Spotify</li>
+  <li>🚗 Uber</li>
+  <li>And many more companies!</li>
+</ul>
+
+<h2 id="-repository-stats">📊 Repository Stats</h2>
+
+<ul>
+  <li><strong>110+ Interview Questions</strong></li>
+  <li><strong>15 Comprehensive Topics</strong></li>
+  <li><strong>500+ Code Examples</strong></li>
+  <li><strong>Covers iOS 13 to iOS 17+</strong></li>
+  <li><strong>Swift 5.9+ Compatible</strong></li>
+</ul>
+
+<h2 id="-quick-links">🔗 Quick Links</h2>
+
+<ul>
+  <li><a href="https://github.com/mukundjogi/ios-interview-prep">GitHub Repository</a></li>
+  <li><a href="https://github.com/mukundjogi/ios-interview-prep/issues">Report an Issue</a></li>
+  <li><a href="https://github.com/mukundjogi/ios-interview-prep/pulls">Contribute</a></li>
+  <li><a href="https://github.com/mukundjogi/ios-interview-prep">Star on GitHub ⭐</a></li>
+</ul>
+
+<h2 id="-connect-with-author">👨‍💻 Connect with Author</h2>
+
+<p><strong>Mukund Jogi</strong> - Engineering Lead &amp; Mobile App Specialist</p>
+
+<ul>
+  <li>🌐 <a href="https://mukundjogi-portfolio.vercel.app/">Portfolio</a></li>
+  <li>💼 <a href="https://www.linkedin.com/in/mukund-jogi/">LinkedIn</a></li>
+  <li>🐙 <a href="https://github.com/mukundjogi">GitHub</a></li>
+  <li>💬 <a href="https://topmate.io/mukundjogi">1:1 Mentorship on TopMate</a></li>
+</ul>
+
+<h2 id="-license">📄 License</h2>
+
+<p>This project is licensed under the MIT License - see the <a href="https://github.com/mukundjogi/ios-interview-prep/blob/main/LICENSE">LICENSE</a> file for details.</p>
+
+<hr />
+
+<div class="footer-cta">
+  <h3>Ready to Ace Your iOS Interview?</h3>
+  <p>Start with our <a href="docs/introduction.html">Introduction Guide</a> or jump directly to <a href="docs/QUESTIONS_INDEX.html">110+ Interview Questions</a></p>
+  <p>⭐ <a href="https://github.com/mukundjogi/ios-interview-prep">Star this repo</a> to bookmark it for your preparation!</p>
+</div>
+
+<p><strong>Created with ❤️ by <a href="https://mukundjogi-portfolio.vercel.app/">Mukund Jogi</a> for iOS developers worldwide</strong></p>
+
+
+
+      <footer class="site-footer">
+        
+        <span class="site-footer-credits">This page was generated by <a href="https://pages.github.com">GitHub Pages</a>.</span>
+      </footer>
+    </main>
+  </body>
+</html>

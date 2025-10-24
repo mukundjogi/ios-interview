@@ -1,0 +1,71 @@
+# Site Settings
+title: iOS Interview Preparation Guide
+description: >-
+  Complete iOS interview preparation guide with 110+ questions, answers, and code examples.
+  Master Swift, UIKit, SwiftUI, architecture patterns, and advanced iOS development topics.
+baseurl: "/ios-interview-prep"
+url: "https://mukundjogi.github.io"
+
+# Author Information
+author:
+  name: Mukund Jogi
+  url: https://mukundjogi-portfolio.vercel.app/
+  github: mukundjogi
+  linkedin: mukund-jogi
+  topmate: mukundjogi
+
+# Social
+tagline: Master iOS Development Interviews
+keywords: 
+  - ios interview questions
+  - swift interview preparation
+  - ios developer interview
+  - swiftui interview questions
+  - uikit interview guide
+  - ios architecture patterns
+  - mobile development interview
+  - apple interview preparation
+  - ios coding interview
+  - swift programming interview
+
+# Build Settings
+markdown: kramdown
+theme: jekyll-theme-cayman
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+  - jekyll-sitemap
+
+# Navigation
+navigation:
+  - title: Home
+    url: /
+  - title: Questions Index
+    url: /docs/QUESTIONS_INDEX
+  - title: Getting Started
+    url: /docs/introduction
+  - title: GitHub
+    url: https://github.com/mukundjogi/ios-interview-prep
+
+# Collections
+collections:
+  docs:
+    output: true
+    permalink: /:collection/:name
+
+logo: /assets/ios-logo.png
+
+social:
+  name: Mukund Jogi
+  links:
+    - https://github.com/mukundjogi
+    - https://www.linkedin.com/in/mukund-jogi/
+    - https://mukundjogi-portfolio.vercel.app/
+    - https://topmate.io/mukundjogi
+
+exclude:
+  - README.md
+  - LICENSE
+  - Gemfile
+  - Gemfile.lock
+
