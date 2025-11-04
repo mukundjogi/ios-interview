@@ -53,7 +53,7 @@ xcode
 
 **Submission PR Template:**
 ```markdown
-### [iOS Interview Preparation Guide](https://github.com/mukundjogi/ios-interview-prep)
+### [iOS Interview Preparation Guide](https://github.com/mukundjogi/ios-interview)
 
 Complete iOS interview preparation resource with 110+ questions, detailed answers, and production-ready Swift code examples. Covers Swift, UIKit, SwiftUI, architecture patterns, concurrency, memory management, and advanced iOS topics. Perfect for developers at all experience levels preparing for interviews at top tech companies.
 
@@ -75,7 +75,7 @@ Complete iOS interview preparation resource with 110+ questions, detailed answer
 ```markdown
 ## Interview Preparation
 
-* [iOS Interview Preparation Guide](https://github.com/mukundjogi/ios-interview-prep) - Comprehensive iOS interview prep with 110+ questions covering Swift fundamentals, UIKit, SwiftUI, architecture patterns, concurrency, and advanced topics. Production-ready code examples and answers formatted for interviews.
+* [iOS Interview Preparation Guide](https://github.com/mukundjogi/ios-interview) - Comprehensive iOS interview prep with 110+ questions covering Swift fundamentals, UIKit, SwiftUI, architecture patterns, concurrency, and advanced topics. Production-ready code examples and answers formatted for interviews.
 ```
 
 ---
@@ -85,7 +85,7 @@ Complete iOS interview preparation resource with 110+ questions, detailed answer
 ```markdown
 ### Interview Preparation
 
-- [iOS Interview Preparation Guide](https://github.com/mukundjogi/ios-interview-prep) - Complete interview preparation resource with 110+ questions, answers, and Swift code examples for all experience levels.
+- [iOS Interview Preparation Guide](https://github.com/mukundjogi/ios-interview) - Complete interview preparation resource with 110+ questions, answers, and Swift code examples for all experience levels.
 ```
 
 ---
@@ -142,8 +142,8 @@ Most interview resources are scattered or outdated. This guide:
 
 ## Quick Start
 
-🔗 **GitHub:** https://github.com/mukundjogi/ios-interview-prep
-🌐 **Website:** https://mukundjogi.github.io/ios-interview-prep/
+🔗 **GitHub:** https://github.com/mukundjogi/ios-interview
+🌐 **Website:** https://mukundjogi.github.io/ios-interview/
 
 ### Most Asked Questions Covered:
 1. weak vs unowned references
@@ -177,7 +177,7 @@ This is open-source and community-driven. Found it helpful?
 
 ---
 
-**Repository:** https://github.com/mukundjogi/ios-interview-prep
+**Repository:** https://github.com/mukundjogi/ios-interview
 
 Happy interviewing! 🚀
 
@@ -196,7 +196,7 @@ Happy interviewing! 🚀
 
 Everything you need to ace your iOS interview 👇
 
-🔗 https://github.com/mukundjogi/ios-interview-prep
+🔗 https://github.com/mukundjogi/ios-interview
 
 1/🧵
 
@@ -278,28 +278,10 @@ Built by developers, for developers ❤️
 
 ---
 
-Success stories 🎉
-
-Developers using this guide landed at:
-
-🍎 Apple
-📘 Meta  
-🔍 Google
-📦 Amazon
-💼 LinkedIn
-🎵 Spotify
-🚗 Uber
-
-Could be you next! 
-
-7/🧵
-
----
-
 Get started:
 
-🌐 Website: https://mukundjogi.github.io/ios-interview-prep/
-📦 GitHub: https://github.com/mukundjogi/ios-interview-prep
+🌐 Website: http://androidvsios.com
+📦 GitHub: https://github.com/mukundjogi/ios-interview
 
 ⭐ Star the repo
 🔀 Fork for reference  
@@ -308,7 +290,7 @@ Get started:
 
 Let's ace those iOS interviews! 🚀
 
-8/8
+7/7
 ```
 
 ---
@@ -357,8 +339,8 @@ I'm excited to share a comprehensive, open-source iOS interview preparation guid
 Developers using this guide have successfully interviewed at Apple, Meta, Google, Amazon, LinkedIn, Spotify, and many more top companies!
 
 🔗 Access the Guide:
-Website: https://mukundjogi.github.io/ios-interview-prep/
-GitHub: https://github.com/mukundjogi/ios-interview-prep
+Website: http://androidvsios.com
+GitHub: https://github.com/mukundjogi/ios-interview
 
 If you find it helpful:
 ⭐ Star the repository
@@ -408,8 +390,8 @@ I've created a comprehensive, open-source iOS interview preparation guide and wa
 - Interview preparation at any level
 
 **Links:**
-- Website: https://mukundjogi.github.io/ios-interview-prep/
-- GitHub: https://github.com/mukundjogi/ios-interview-prep
+- Website: http://androidvsios.com/
+- GitHub: https://github.com/mukundjogi/ios-interview
 
 The guide is completely free, open-source, and community-driven. Contributions are welcome!
 
@@ -431,7 +413,7 @@ Created a comprehensive Swift/iOS interview preparation resource covering everyt
 - Real questions from Apple, Google, Meta interviews
 - Production-ready code examples
 
-Check it out: https://github.com/mukundjogi/ios-interview-prep
+Check it out: https://github.com/mukundjogi/ios-interview
 
 Feedback and contributions welcome!
 ```
@@ -454,44 +436,12 @@ I created this guide while preparing for iOS interviews and wanted to share it w
 Used this guide to prepare and received offers from multiple top tech companies. Several other developers have shared similar success stories.
 
 **Resource:**
-https://github.com/mukundjogi/ios-interview-prep
+https://github.com/mukundjogi/ios-interview
 
 Completely free and open-source. Hope it helps others on their interview journey!
 ```
 
 ---
-
-## 📧 Newsletter Submission Templates
-
-### iOS Dev Weekly
-
-**Email to:** ios@devweekly.co
-
-**Subject:** Submission: iOS Interview Preparation Guide
-
-**Body:**
-```
-Hi,
-
-I'd like to submit my open-source iOS Interview Preparation Guide for consideration in iOS Dev Weekly.
-
-**iOS Interview Preparation Guide**
-https://github.com/mukundjogi/ios-interview-prep
-
-A comprehensive interview preparation resource with 110+ real interview questions, detailed answers, and production-ready Swift code examples. Covers Swift programming, UIKit, SwiftUI, architecture patterns, concurrency, memory management, and advanced iOS topics.
-
-Features:
-- 110+ interview questions from FAANG companies
-- 15 comprehensive topics
-- Latest iOS 17 & Swift 5.9+ coverage
-- Production-ready code examples
-- Open-source and community-driven
-
-The guide has helped developers land positions at Apple, Google, Meta, and other top companies.
-
-Best regards,
-[Your Name]
-```
 
 ### Swift Weekly Brief
 
@@ -501,7 +451,7 @@ Best regards,
 ```markdown
 **Title:** iOS Interview Preparation Guide - 110+ Questions & Answers
 
-**Link:** https://github.com/mukundjogi/ios-interview-prep
+**Link:** https://github.com/mukundjogi/ios-interview
 
 **Description:**
 Comprehensive iOS interview preparation resource covering Swift programming, UIKit, SwiftUI, architecture patterns, concurrency, and advanced topics. Features 110+ real interview questions with detailed answers and modern Swift code examples. Perfect for developers at all levels preparing for interviews at top tech companies.
@@ -518,7 +468,7 @@ Comprehensive iOS interview preparation resource covering Swift programming, UIK
 2. `Show HN: Comprehensive iOS Interview Prep Guide (Open Source)`
 3. `iOS Interview Questions from FAANG Companies`
 
-**URL:** https://github.com/mukundjogi/ios-interview-prep
+**URL:** https://github.com/mukundjogi/ios-interview
 
 **Comment to add:**
 ```
@@ -551,7 +501,7 @@ Feedback and contributions welcome!
 
 I've created a comprehensive iOS interview preparation guide and would love to share it with the Swift community.
 
-**Repository:** https://github.com/mukundjogi/ios-interview-prep
+**Repository:** https://github.com/mukundjogi/ios-interview
 
 **What's included:**
 - 110+ interview questions with detailed answers
@@ -623,7 +573,7 @@ Are you preparing for an iOS developer interview? This comprehensive guide cover
 
 [Full article content based on the repository...]
 
-**Access the full guide:** https://github.com/mukundjogi/ios-interview-prep
+**Access the full guide:** https://github.com/mukundjogi/ios-interview
 ```
 
 ### Medium

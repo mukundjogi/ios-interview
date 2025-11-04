@@ -1,16 +1,20 @@
 # iOS Interview Preparation Guide
 
-[![GitHub Stars](https://img.shields.io/github/stars/mukundjogi/ios-interview-prep?style=social)](https://github.com/mukundjogi/ios-interview-prep)
-[![GitHub Forks](https://img.shields.io/github/forks/mukundjogi/ios-interview-prep?style=social)](https://github.com/mukundjogi/ios-interview-prep/fork)
-[![GitHub Issues](https://img.shields.io/github/issues/mukundjogi/ios-interview-prep)](https://github.com/mukundjogi/ios-interview-prep/issues)
+<p align="center">
+  <img src="assets/hero-ios-interview-prep.png" alt="iOS Interview Preparation Hero Banner" width="1200" height="400" />
+</p>
+
+[![GitHub Stars](https://img.shields.io/github/stars/mukundjogi/ios-interview?style=social)](https://github.com/mukundjogi/ios-interview)
+[![GitHub Forks](https://img.shields.io/github/forks/mukundjogi/ios-interview?style=social)](https://github.com/mukundjogi/ios-interview/fork)
+[![GitHub Issues](https://img.shields.io/github/issues/mukundjogi/ios-interview)](https://github.com/mukundjogi/ios-interview/issues)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/mukundjogi/ios-interview-prep/pulls)
+[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/mukundjogi/ios-interview/pulls)
 
 > **🎯 The most comprehensive iOS interview preparation resource with 110+ real interview questions, detailed answers, and production-ready Swift code examples.**
 
 A complete guide for iOS developers preparing for interviews at **Apple, Google, Meta, Amazon, and top tech companies**. Master Swift programming, UIKit, SwiftUI, architecture patterns, concurrency, and advanced iOS development topics.
 
-**📖 [Read Online](https://mukundjogi.github.io/ios-interview-prep/)** | **⭐ [Star This Repo](https://github.com/mukundjogi/ios-interview-prep)** | **🐛 [Report Issue](https://github.com/mukundjogi/ios-interview-prep/issues)**
+**📖 [Read Online](https://github.com/mukundjogi/ios-interview/)** | **⭐ [Star This Repo](https://github.com/mukundjogi/ios-interview)** | **🐛 [Report Issue](https://github.com/mukundjogi/ios-interview/issues)**
 
 ## 📚 Table of Contents
 
@@ -105,19 +109,6 @@ Focus on: Clean Architecture, SOLID Principles, Dependency Management, System De
 - **Specific Topic?** Use [Table of Contents](#-table-of-contents)
 - **Want All Questions?** Check [Complete Questions Index](docs/QUESTIONS_INDEX.md)
 
-## 🎯 Success Stories
-
-Developers using this guide have successfully interviewed at:
-- 🍎 Apple
-- 📘 Meta (Facebook)  
-- 🔍 Google
-- 📦 Amazon
-- 💼 LinkedIn
-- 🎵 Spotify
-- 🚗 Uber
-- 🏦 Goldman Sachs
-- And 100+ more companies!
-
 ## 📖 Contributing
 
 We welcome contributions from the community! See [CONTRIBUTING.md](CONTRIBUTING.md) for guidelines.
@@ -145,10 +136,10 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 🔗 Repository Links
 
-- 🌐 **Website**: [https://mukundjogi.github.io/ios-interview-prep/](https://mukundjogi.github.io/ios-interview-prep/)
-- 📦 **GitHub**: [https://github.com/mukundjogi/ios-interview-prep](https://github.com/mukundjogi/ios-interview-prep)
-- 💬 **Discussions**: [GitHub Discussions](https://github.com/mukundjogi/ios-interview-prep/discussions)
-- 🐛 **Issues**: [Report Issues](https://github.com/mukundjogi/ios-interview-prep/issues)
+- 🌐 **Website**: [https://github.com/mukundjogi/ios-interview](https://github.com/mukundjogi/ios-interview)
+- 📦 **GitHub**: [https://github.com/mukundjogi/ios-interview](https://github.com/mukundjogi/ios-interview)
+- 💬 **Discussions**: [GitHub Discussions](https://github.com/mukundjogi/ios-interview/discussions)
+- 🐛 **Issues**: [Report Issues](https://github.com/mukundjogi/ios-interview/issues)
 
 ### Share This Repository
 
@@ -164,9 +155,9 @@ If this guide helped you, please:
 
 ## 📈 Repository Activity
 
-![GitHub commit activity](https://img.shields.io/github/commit-activity/m/mukundjogi/ios-interview-prep)
-![GitHub last commit](https://img.shields.io/github/last-commit/mukundjogi/ios-interview-prep)
-![GitHub contributors](https://img.shields.io/github/contributors/mukundjogi/ios-interview-prep)
+![GitHub commit activity](https://img.shields.io/github/commit-activity/m/mukundjogi/ios-interview)
+![GitHub last commit](https://img.shields.io/github/last-commit/mukundjogi/ios-interview)
+![GitHub contributors](https://img.shields.io/github/contributors/mukundjogi/ios-interview)
 
 ---
 
@@ -180,6 +171,6 @@ If this guide helped you, please:
 
 ### Don't forget to ⭐ star this repository if you found it helpful!
 
-**[📖 Read Online](https://mukundjogi.github.io/ios-interview-prep/)** • **[📋 All Questions](docs/QUESTIONS_INDEX.md)** • **[🤝 Contribute](CONTRIBUTING.md)**
+**[📖 Read Online](https://mukundjogi.github.io/ios-interview)** • **[📋 All Questions](docs/QUESTIONS_INDEX.md)** • **[🤝 Contribute](CONTRIBUTING.md)**
 
 </div>

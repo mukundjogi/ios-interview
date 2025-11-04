@@ -30,8 +30,8 @@ User-agent: Applebot-Extended
 Allow: /
 
 # Sitemap location
-Sitemap: https://mukundjogi.github.io/ios-interview-prep/sitemap.xml
-Sitemap: https://raw.githubusercontent.com/mukundjogi/ios-interview-prep/main/sitemap.xml
+Sitemap: https://mukundjogi.github.io/ios-interview/sitemap.xml
+Sitemap: https://raw.githubusercontent.com/mukundjogi/ios-interview/main/sitemap.xml
 
 # Allow all content to be crawled
 Crawl-delay: 0

@@ -4,11 +4,16 @@ title: iOS Interview Preparation Guide - 110+ Questions & Answers
 description: Complete iOS interview preparation resource covering Swift, UIKit, SwiftUI, architecture patterns, and advanced topics. Perfect for developers at all levels.
 ---
 
+# Hero
+<div align="center" style="margin-bottom: 1.5rem;">
+  <img src="assets/hero-ios-interview-prep.png" alt="iOS Interview Preparation Hero Banner" width="1200" height="400" style="max-width: 100%; height: auto;" />
+</div>
+
 # 🍎 iOS Interview Preparation Guide
 
 <div class="badges">
-  <img src="https://img.shields.io/github/stars/mukundjogi/ios-interview-prep?style=social" alt="GitHub Stars">
-  <img src="https://img.shields.io/github/forks/mukundjogi/ios-interview-prep?style=social" alt="GitHub Forks">
+  <img src="https://img.shields.io/github/stars/mukundjogi/ios-interview?style=social" alt="GitHub Stars">
+  <img src="https://img.shields.io/github/forks/mukundjogi/ios-interview?style=social" alt="GitHub Forks">
   <img src="https://img.shields.io/badge/questions-110+-blue" alt="110+ Questions">
   <img src="https://img.shields.io/badge/Swift-5.9+-orange" alt="Swift 5.9+">
 </div>
@@ -144,10 +149,10 @@ This guide has helped developers land positions at:
 
 ## 🔗 Quick Links
 
-- [GitHub Repository](https://github.com/mukundjogi/ios-interview-prep)
-- [Report an Issue](https://github.com/mukundjogi/ios-interview-prep/issues)
-- [Contribute](https://github.com/mukundjogi/ios-interview-prep/pulls)
-- [Star on GitHub ⭐](https://github.com/mukundjogi/ios-interview-prep)
+- [GitHub Repository](https://github.com/mukundjogi/ios-interview)
+- [Report an Issue](https://github.com/mukundjogi/ios-interview/issues)
+- [Contribute](https://github.com/mukundjogi/ios-interview/pulls)
+- [Star on GitHub ⭐](https://github.com/mukundjogi/ios-interview)
 
 ## 👨‍💻 Connect with Author
 
@@ -160,14 +165,14 @@ This guide has helped developers land positions at:
 
 ## 📄 License
 
-This project is licensed under the MIT License - see the [LICENSE](https://github.com/mukundjogi/ios-interview-prep/blob/main/LICENSE) file for details.
+This project is licensed under the MIT License - see the [LICENSE](https://github.com/mukundjogi/ios-interview/blob/main/LICENSE) file for details.
 
 ---
 
 <div class="footer-cta">
   <h3>Ready to Ace Your iOS Interview?</h3>
   <p>Start with our <a href="docs/introduction.html">Introduction Guide</a> or jump directly to <a href="docs/QUESTIONS_INDEX.html">110+ Interview Questions</a></p>
-  <p>⭐ <a href="https://github.com/mukundjogi/ios-interview-prep">Star this repo</a> to bookmark it for your preparation!</p>
+  <p>⭐ <a href="https://github.com/mukundjogi/ios-interview">Star this repo</a> to bookmark it for your preparation!</p>
 </div>
 
 **Created with ❤️ by [Mukund Jogi](https://mukundjogi-portfolio.vercel.app/) for iOS developers worldwide**

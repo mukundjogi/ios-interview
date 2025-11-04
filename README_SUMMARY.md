@@ -11,7 +11,6 @@ The following internal planning files were removed as they shouldn't be public:
 - ❌ `QUICK_START.md` - Internal setup guide
 - ❌ `SEO_GUIDE.md` - Internal SEO strategy document
 - ❌ `.github/SUBMISSION_TEMPLATES.md` - Internal promotional templates
-- ❌ `.github/SOCIAL_MEDIA_ASSETS.md` - Internal asset guide
 
 ---
 
@@ -84,7 +83,7 @@ Create a professional tech graphic for iOS Interview Preparation guide:
 - Title: "iOS Interview Preparation" in iOS blue (#007AFF)
 - Subtitle: "110+ Questions & Answers" in iOS orange (#FF9500)
 - Checkmarks with: Swift Programming, UIKit & SwiftUI, Architecture Patterns, Concurrency
-- Footer: "github.com/mukundjogi/ios-interview-prep"
+- Footer: "github.com/mukundjogi/ios-interview"
 - Modern, clean, professional design
 - 1200 x 630 pixels
 ```
@@ -109,7 +108,7 @@ GitHub repository preview image:
 - Left: Large iOS/Swift icon
 - Right: "iOS Interview Prep", "Master iOS Development Interviews"
 - Stats badges: ⭐ 110+ Questions, 📚 15 Topics, 🎯 FAANG Ready
-- Bottom: "github.com/mukundjogi/ios-interview-prep"
+- Bottom: "github.com/mukundjogi/ios-interview"
 ```
 
 **4. iOS Logo (512 x 512):**
@@ -142,7 +141,7 @@ git push origin prepare-now
 - Go to Settings → Pages
 - Enable from branch `prepare-now`
 - Wait 5 minutes
-- Visit: https://mukundjogi.github.io/ios-interview-prep/
+- Visit: https://mukundjogi.github.io/ios-interview/
 
 ### 4. Set Social Preview (2 minutes)
 - Settings → General → Social Preview

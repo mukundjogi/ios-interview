@@ -94,8 +94,8 @@ Click the "Fork" button at the top right of the repository page.
 
 ### 2. Clone Your Fork
 ```bash
-git clone https://github.com/YOUR-USERNAME/ios-interview-prep.git
-cd ios-interview-prep
+git clone https://github.com/YOUR-USERNAME/ios-interview.git
+cd ios-interview
 ```
 
 ### 3. Create a Branch
@@ -322,7 +322,7 @@ Every contribution, no matter how small, makes a difference. Thank you for helpi
 
 **Questions?** Feel free to reach out by opening an issue or discussion.
 
-**Ready to contribute?** Check out our [open issues](https://github.com/mukundjogi/ios-interview-prep/issues) or [start a discussion](https://github.com/mukundjogi/ios-interview-prep/discussions)!
+**Ready to contribute?** Check out our [open issues](https://github.com/mukundjogi/ios-interview/issues) or [start a discussion](https://github.com/mukundjogi/ios-interview/discussions)!
 
 Happy Contributing! 🚀🍎
 

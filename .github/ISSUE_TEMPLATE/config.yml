@@ -1,9 +1,9 @@
 blank_issues_enabled: true
 contact_links:
   - name: 💬 Discussions
-    url: https://github.com/mukundjogi/ios-interview-prep/discussions
+    url: https://github.com/mukundjogi/ios-interview/discussions
     about: Ask questions, share ideas, or discuss iOS interview topics
   - name: ⭐ Star this repo
-    url: https://github.com/mukundjogi/ios-interview-prep
+    url: https://github.com/mukundjogi/ios-interview
     about: If this guide helped you, please star the repository!
 

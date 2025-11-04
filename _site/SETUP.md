@@ -14,7 +14,7 @@ Quick guide to get your iOS Interview Prep repository live on GitHub Pages.
    ```
 
 2. **Enable GitHub Pages:**
-   - Go to: https://github.com/mukundjogi/ios-interview-prep
+   - Go to: https://github.com/mukundjogi/ios-interview
    - Click **Settings** → **Pages**
    - Source: **Deploy from a branch**
    - Branch: `prepare-now` (or `main`)
@@ -23,7 +23,7 @@ Quick guide to get your iOS Interview Prep repository live on GitHub Pages.
 
 3. **Wait 3-5 minutes** for deployment
    - Check **Actions** tab for build status
-   - Site will be live at: https://mukundjogi.github.io/ios-interview-prep/
+   - Site will be live at: https://mukundjogi.github.io/ios-interview/
 
 ---
 
@@ -39,7 +39,7 @@ Quick guide to get your iOS Interview Prep repository live on GitHub Pages.
    ```
    Complete iOS interview prep with 110+ questions from FAANG companies. Master Swift, UIKit, SwiftUI & architecture patterns. ⭐ Star to bookmark!
    ```
-5. Add website: `https://mukundjogi.github.io/ios-interview-prep/`
+5. Add website: `https://mukundjogi.github.io/ios-interview/`
 6. Enable **Issues** and **Discussions**
 7. Click **Save**
 
@@ -73,7 +73,7 @@ Quick guide to get your iOS Interview Prep repository live on GitHub Pages.
 
 ### Google Search Console
 1. Go to: https://search.google.com/search-console
-2. Add property: `https://mukundjogi.github.io/ios-interview-prep/`
+2. Add property: `https://mukundjogi.github.io/ios-interview/`
 3. Verify ownership
 4. Submit sitemap: `sitemap.xml`
 
@@ -91,7 +91,7 @@ Quick guide to get your iOS Interview Prep repository live on GitHub Pages.
 1. Fork repository
 2. Add entry in "Interview Questions" section:
    ```markdown
-   - [iOS Interview Preparation Guide](https://github.com/mukundjogi/ios-interview-prep) - 110+ interview questions with answers covering Swift, UIKit, SwiftUI, architecture patterns, and more.
+   - [iOS Interview Preparation Guide](https://github.com/mukundjogi/ios-interview) - 110+ interview questions with answers covering Swift, UIKit, SwiftUI, architecture patterns, and more.
    ```
 3. Submit Pull Request
 
@@ -112,7 +112,7 @@ Quick guide to get your iOS Interview Prep repository live on GitHub Pages.
 
 Free & open-source 🚀
 
-🔗 https://github.com/mukundjogi/ios-interview-prep
+🔗 https://github.com/mukundjogi/ios-interview
 
 #iOSDev #Swift #InterviewPrep
 ```
@@ -131,7 +131,7 @@ Perfect for iOS developers preparing for interviews at any level.
 
 It's completely free and open-source. Star it if you find it helpful! ⭐
 
-https://github.com/mukundjogi/ios-interview-prep
+https://github.com/mukundjogi/ios-interview
 
 #iOS #Swift #MobileDevelopment #InterviewPreparation
 ```
@@ -151,7 +151,7 @@ I've created a comprehensive iOS interview preparation guide covering everything
 
 **Topics:** Swift, iOS Basics, UIKit, SwiftUI, Architecture (MVC, MVVM, VIPER), Concurrency, Memory Management, Testing, Security, and more.
 
-Link: https://github.com/mukundjogi/ios-interview-prep
+Link: https://github.com/mukundjogi/ios-interview
 
 Hope this helps fellow iOS developers! Contributions and feedback welcome.
 ```

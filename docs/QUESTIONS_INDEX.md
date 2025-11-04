@@ -1,5 +1,7 @@
 # Interview Questions Quick Reference
 
+![iOS Interview Preparation Banner](../assets/ios-hero-banner.svg)
+
 A complete index of all 110+ interview questions organized by topic.
 
 [← Back to Main](../README.md)

@@ -3,7 +3,7 @@ title: iOS Interview Preparation Guide
 description: >-
   Complete iOS interview preparation guide with 110+ questions, answers, and code examples.
   Master Swift, UIKit, SwiftUI, architecture patterns, and advanced iOS development topics.
-baseurl: "/ios-interview-prep"
+baseurl: "/ios-interview"
 url: "https://mukundjogi.github.io"
 
 # Author Information
@@ -45,7 +45,7 @@ navigation:
   - title: Getting Started
     url: /docs/introduction
   - title: GitHub
-    url: https://github.com/mukundjogi/ios-interview-prep
+    url: https://github.com/mukundjogi/ios-interview
 
 # Collections
 collections:

@@ -7,7 +7,7 @@
     
     <!-- Main Landing Page -->
     <url>
-        <loc>https://mukundjogi.github.io/ios-interview-prep/</loc>
+        <loc>https://mukundjogi.github.io/ios-interview/</loc>
         <lastmod>2025-10-14</lastmod>
         <changefreq>weekly</changefreq>
         <priority>1.0</priority>
@@ -15,7 +15,7 @@
     
     <!-- GitHub Repository -->
     <url>
-        <loc>https://github.com/mukundjogi/ios-interview-prep</loc>
+        <loc>https://github.com/mukundjogi/ios-interview</loc>
         <lastmod>2025-10-14</lastmod>
         <changefreq>daily</changefreq>
         <priority>1.0</priority>
