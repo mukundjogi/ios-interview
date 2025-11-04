@@ -85,7 +85,7 @@ Focus on: Clean Architecture, SOLID Principles, Dependency Management, System De
 
 ## 🌟 Why Choose This Guide?
 
-✅ **110+ Real Interview Questions** - Actual questions from FAANG and top companies  
+✅ **110+ Real Interview Questions** - Actual questions from top companies  
 ✅ **Production-Ready Code** - Examples from real-world iOS applications  
 ✅ **Constantly Updated** - Latest iOS 17 features and Swift 5.9+ syntax  
 ✅ **Interview-Focused Answers** - Formatted specifically for interview responses  
